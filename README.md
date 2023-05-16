@@ -1,4 +1,4 @@
-### Hi there 👋
+### hi i am here to learn more about websites and technology systems👋
 
 <!--
 **Vitoria1B/vitoria1B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
