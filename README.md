@@ -1,4 +1,4 @@
-### hi i am here to learn more about websites and technology systems👋
+### hello i'm vitoria i'm a student and i'm taking computational thinking class and i'm sixteen years old👋
 
 <!--
 **Vitoria1B/vitoria1B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
