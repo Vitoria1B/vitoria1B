@@ -3,3 +3,4 @@
 ![ninjago](https://media.tenor.com/l1pz2r72KK4AAAAM/kai-ninjago-lmao.gif)
 ![ninjago](https://media.tenor.com/iZZOJNaCN3MAAAAM/lloyd.gif)
 ![sonic](https://media.tenor.com/2VZIWK6WlVgAAAAM/sonic-the-hedgehog-sonic-prime.gif)
+![amyrose](https://media.tenor.com/7rdixnEi4o0AAAAM/amy-rose.gif)
