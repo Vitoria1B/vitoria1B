@@ -1,0 +1,24 @@
+body {
+    background: #85b5eb
+}
+
+#coruja {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#motivo{
+    font-size: 20px
+}
+
+
+em strong {
+    color: #a45ae0;
+}
