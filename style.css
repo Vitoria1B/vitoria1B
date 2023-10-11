@@ -2,6 +2,10 @@ body {
     background: #85b5eb
 }
 
+#coruja {
+    text-align: center;
+}
+
 h1 {
     text-align: center;
 }
@@ -16,8 +20,4 @@ p {
 
 em strong {
     color: #a45ae0;
-}
-
-img {
-    text-align: center;
 }
