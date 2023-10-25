@@ -21,3 +21,11 @@ p {
 em strong {
     color: #a45ae0;
 }
+
+.Benefícios {
+    font-style: italic;
+}
+
+.BENE {
+    background-color: rgb(245, 245, 245);
+}
