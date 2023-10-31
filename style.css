@@ -6,6 +6,10 @@ body {
     text-align: center;
 }
 
+.origem {
+    background-color:rgb(36, 149, 255)
+}
+
 h1 {
     text-align: center;
 }
@@ -27,5 +31,9 @@ em strong {
 }
 
 .BENE {
-    background-color: rgb(245, 245, 245);
+    background: #85b5eb
+}
+
+h2 {
+    text-align: center;
 }
